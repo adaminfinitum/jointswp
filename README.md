@@ -1,7 +1,15 @@
-Find out more here: www.jointswp.com  
+Not sure if this is standard protocol but rather than forking this project (which, as far as I know, prevents me from using `git pull` in the future), I cloned it and created a repo of my own.
+
+This makes a lot of sense to me (assuming it does what I hope it will) so I can't imagine it is bad etiquette.
+
+If it is, or if there is a better way to be able to get updates from parent repos, please advise.
+
+And now, on with the show...
+
+Find out more here: www.jointswp.com
 Demo: www.jointswp.com/demo
 
-### A blank, Foundation 5 WordPress theme 
+### A blank, Foundation 5 WordPress theme
 A project by [@jeremyenglert](https://twitter.com/jeremyenglert) of The Ad Garage. [Follow me](https://twitter.com/jeremyenglert) on Twitter to keep up-to-date with JointsWP.
 
 ### Start with a Solid Foundation
